@@ -60,7 +60,7 @@ Let’s connect and build something meaningful with data.
 Linkdein Profile link: https://www.linkedin.com/in/samman-naveed-06a66b275/
 Email: a.ahmednaveed786@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samman1122&show_icons=true&theme=dark)
+
 
 
 
