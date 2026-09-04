@@ -1,11 +1,15 @@
-What I Do
+## Hi, I'm Data & Business Analyst 
+
+### What I Do
+
 Most businesses have data.
 Very few actually use it to make better decisions.
 
 I work at the point where business, data, and growth intersect—turning messy, scattered data into clear insights that help teams improve performance, increase revenue, and operate more efficiently.
 Using Python (Pandas, NumPy), SQL, Excel, Power Query, and Power BI, I analyze business data, build structured reports, and create dashboards that don’t just show numbers—but explain what’s happening, why it’s happening, and what to do next.
 
-Who I Help (Problems I Solve)
+### Who I Help (Problems I Solve)
+
 I work with startups, growing businesses, and teams that are trying to scale but are held back by unclear or underutilized data.
 Typically, they are:
 • Making decisions without clear data backing
@@ -15,7 +19,7 @@ Typically, they are:
 • Missing opportunities in customer behavior, pricing, or marketing performance
 I help bring structure, clarity, and direction to that chaos.
 
-What Results You Get
+### What Results You Get
 My focus is not just analysis—it’s business impact:
 • Clear visibility into KPIs, growth metrics, and performance drivers
 • Identification of revenue opportunities and performance gaps
@@ -25,7 +29,7 @@ My focus is not just analysis—it’s business impact:
 
 The end goal is simple: help you make smarter decisions that move the business forward.
 
-A Little About Me & My Journey
+### A Little About Me & My Journey
 I built my skills by working on real business problems across e-commerce, marketing, customer behavior, and operations.
 From analyzing 100K+ booking records to uncover revenue leakage, to evaluating marketing campaigns and identifying higher ROI channels—I focus on practical analysis that connects directly to business outcomes.
 Alongside data analytics, my background in digital marketing and freelancing allows me to approach problems with a business and market perspective—not just a technical one.
