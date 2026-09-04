@@ -1,47 +1,42 @@
-## # Hi, I'm Samman Naveed 👋
+What I Do
+Most businesses have data.
+Very few actually use it to make better decisions.
 
-## 🚀 About Me
+I work at the point where business, data, and growth intersect—turning messy, scattered data into clear insights that help teams improve performance, increase revenue, and operate more efficiently.
+Using Python (Pandas, NumPy), SQL, Excel, Power Query, and Power BI, I analyze business data, build structured reports, and create dashboards that don’t just show numbers—but explain what’s happening, why it’s happening, and what to do next.
 
-I am an entry-level **Data Analyst** passionate about transforming raw data into meaningful insights that support smart business decisions. I specialize in **data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard development**, helping organizations understand trends, performance metrics, and growth opportunities.
+Who I Help (Problems I Solve)
+I work with startups, growing businesses, and teams that are trying to scale but are held back by unclear or underutilized data.
+Typically, they are:
+• Making decisions without clear data backing
+• Struggling with messy Excel files or disconnected data sources
+• Spending hours on manual reporting instead of actual analysis
+• Lacking visibility into growth metrics, product performance, or market trends
+• Missing opportunities in customer behavior, pricing, or marketing performance
+I help bring structure, clarity, and direction to that chaos.
 
-I work confidently with:
+What Results You Get
+My focus is not just analysis—it’s business impact:
+• Clear visibility into KPIs, growth metrics, and performance drivers
+• Identification of revenue opportunities and performance gaps
+• Better understanding of customer behavior and market trends
+• Faster, automated reporting that saves time and reduces errors
+• Data-backed decisions that improve efficiency and reduce guesswork
 
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 🗄️ SQL & MySQL
-- 📊 Power BI & Power Query
-- 📑 Microsoft Excel
+The end goal is simple: help you make smarter decisions that move the business forward.
 
-My focus is on turning complex datasets into **clear, actionable reports and interactive dashboards** that make decision-making easier and more effective.
+A Little About Me & My Journey
+I built my skills by working on real business problems across e-commerce, marketing, customer behavior, and operations.
+From analyzing 100K+ booking records to uncover revenue leakage, to evaluating marketing campaigns and identifying higher ROI channels—I focus on practical analysis that connects directly to business outcomes.
+Alongside data analytics, my background in digital marketing and freelancing allows me to approach problems with a business and market perspective—not just a technical one.
 
----
+Let’s Connect
+I’m currently open to remote roles, freelance projects, and internships in Data Analysis, Business Intelligence, and Growth/Market Analysis.
 
-## 📊 What I Do
+If you’re looking for someone who can turn your data into clear direction for growth, performance, and better decision-making—let’s connect.
 
-- Perform **data preprocessing and data cleaning**
-- Conduct **Exploratory Data Analysis (EDA)**
-- Write optimized **SQL queries** for business insights
-- Build **Power BI dashboards**
-- Create professional reports with data visualization
-- Identify trends, patterns, and performance indicators
-
-I enjoy solving real-world business problems using data-driven strategies and analytical thinking.
-
----
-
-## 💼 Business Understanding
-
-Through my background in Digital Marketing, Freelancing, and Amazon Virtual Assistance from Virtual University Pakistan, I understand how businesses operate beyond just numbers.  
-
-This helps me connect **data insights with business context**, ensuring that analysis supports real objectives like revenue growth, customer retention, and operational efficiency.
-
----
-
-## 🎯 Current Goals
-
-- Contributing to real-world data projects
-- Improving advanced SQL and analytics skills
-- Building strong portfolio projects
-- Working on remote internships and freelance opportunities
+My work:
+GitHub → https://github.com/samman1122
 
 ---
 
@@ -58,7 +53,7 @@ If you're looking for someone who can:
 Let’s connect and build something meaningful with data.
 
 Linkdein Profile link: https://www.linkedin.com/in/samman-naveed-06a66b275/
-Email: a.ahmednaveed786@gmail.com
+Email: s.sammannaveed786@gmail.com
 
 
 
