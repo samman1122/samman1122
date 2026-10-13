@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samman — Data & Business Analyst
+# Myself Samman — Data & Business Analyst
 
 ### Turning Business Data Into Clear Insights, Better Decisions & Growth.
 
