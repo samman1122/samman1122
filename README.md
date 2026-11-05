@@ -47,7 +47,7 @@ The end goal is simple:
 
 I built my skills by working on real business problems across **e-commerce, marketing, customer behavior, and operations.**
 
-From analyzing **100K+ booking records** to uncover revenue leakage, to evaluating marketing campaigns and identifying higher ROI channels — I focus on practical analysis that connects directly to business outcomes.
+From analyzing **265+ Retail Business records** to uncover revenue leakage, to evaluating marketing campaigns and identifying higher ROI channels — I focus on practical analysis that connects directly to business outcomes.
 
 Alongside data analytics, my background in **digital marketing and freelancing** allows me to approach problems with a business and market perspective — not just a technical one.
 
